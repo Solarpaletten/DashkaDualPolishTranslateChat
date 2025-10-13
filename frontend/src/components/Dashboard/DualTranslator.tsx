@@ -15,9 +15,9 @@ const DualTranslator: React.FC = () => {
     websocketRef
   } = useTranslator();
 
-  const dialects = ['de-DE', 'ru-RU'];
+  const dialects = ['pl-PL', 'ru-RU'];
   const dialectNames = {
-    'de-DE': '🇩🇪 Deutsch',
+    'pl-PL': '🇵🇱 Polski',
     'ru-RU': '🇷🇺 Русский'
   };
 

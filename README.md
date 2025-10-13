@@ -29,3 +29,4 @@ npm run dev
 
 See [API_REFERENCE.md](docs/API_REFERENCE.md) for details.
 # DashkaGermanyDualTranslateChat
+# DashkaDualPolishTranslateChat

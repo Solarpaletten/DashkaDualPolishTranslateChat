@@ -26,7 +26,7 @@ class WhisperService {
 
       // Маппинг для поддержки диалектов
       const langMap = {
-        'de-DE': 'de',
+        'pl-PL': 'pl',
         'ru-RU': 'ru',
         'ru': 'ru'
       };
